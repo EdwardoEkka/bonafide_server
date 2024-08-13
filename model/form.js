@@ -18,7 +18,7 @@ const bonafideSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  grad_year: {
+  semester: {
     type: String,
     required: true,
   },
